@@ -1,5 +1,4 @@
-8MEH-RMXLW-HN44A-BABPA-S9NQF-PEMBR
+Hello world!
 
-8MEH-RREY3-L2LQA-LUMOR-UJXN3-6EMBR-ACED
-
-C:\Program Files (x86)\CodeBlocks\MinGW
+Process returned 0 (0x0)   execution time : 0.026 s
+Press any key to continue.
